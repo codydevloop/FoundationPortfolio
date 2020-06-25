@@ -1,0 +1,31 @@
+
+
+body{
+    font-family: 'Roboto Slab', sans-serif;
+    background: url("http://cdn.backgroundhost.com/backgrounds/subtlepatterns/purty_wood.png");
+    /*background-image: url("./assets/workarea.jpg"); */
+}
+
+.flexbox-container {
+    display: flex;
+    justify-content: center;
+
+    /* background-color:orange; */
+    /* justify-content: flex-end */
+}
+.flexbox-item-navright{
+   
+}
+
+/* linkedin-github-resume */
+.flexbox-item-naviconsonly{
+    display: flex;
+    justify-content: space-around;
+}
+
+
+
+.flexbox-item-phoneinfo{
+  display: flex;
+  justify-content: center;
+}
