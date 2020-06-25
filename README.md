@@ -1,2 +1,2 @@
 # FoundationPortfolio
-Exercise to introduce myself to Foundation
+Convert from Bootstrap to Foundation
