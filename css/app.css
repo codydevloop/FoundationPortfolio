@@ -9,12 +9,10 @@ body{
 .flexbox-container {
     display: flex;
     justify-content: center;
+    margin-top: 20px;
 
     /* background-color:orange; */
     /* justify-content: flex-end */
-}
-.flexbox-item-navright{
-   
 }
 
 /* linkedin-github-resume */
@@ -34,5 +32,13 @@ body{
     background-color: white;
     padding: 20px;
     color: black;
+    border-radius: 10px;
+}
+img{
+    border-radius: 10px;
+}
+
+.fewthings{
+    padding-top: 40px;
 }
 
